@@ -1,1 +1,1 @@
-# clarusway-aws-devops-DE-05
+# Calismalarimi sanalda tutmak icin bu repoyu olusturdum.
